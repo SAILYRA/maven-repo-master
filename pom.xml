@@ -29,12 +29,12 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://3.82.142.47:8081/repository/release/</url>
+            <url>http://52.203.215.230:8081/repository/sai-R/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://3.82.142.47:8081/repository/snapshot/</url>
+            <url>http://52.203.215.230:8081/repository/sai-S/</url>
         </snapshotRepository>
     </distributionManagement>
   <properties>
